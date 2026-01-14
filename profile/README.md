@@ -67,3 +67,6 @@ Follow our organization, explore our open-source projects, and help shape the fu
 
 📍 **GoMim AI Math Solver Organization**
 
+## More AI Tools
+[Math AI](https://mathaisolver.ai/)
+
